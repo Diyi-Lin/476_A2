@@ -1,0 +1,19 @@
+clusterA: x<-17, z<0
+clusterB: x>12, z<-17
+clusterC: x>-3, z>37
+clusterD: x<-7, 2<z<23
+clusterE: x>-3, -13<z<13
+clusterF: -13<x<-7, z<0
+clusterG: -3<x<12, z<-17 
+clusterH: x<-7, z>27
+clusterI: x>-3, 17<z<33
+
+   A B  C  D  E  F  G  H  I
+A  \ 15 17 1  13 1  8  12 9
+B  \ \  17 16 1  8  1  21 7
+C  \ \  \  8  8  18 19 1  1
+D  \ \  \  \  14 1  9  3  1
+E  \ \  \  \  \  6  1  12 1
+F  \ \  \  \  \  \  1  13 10
+G  \ \  \  \  \  \  \  22 12
+H  \ \  \  \  \  \  \  \  1

@@ -1,0 +1,3 @@
+The screenshots are different output from different heuristic methods working on the same startnode node4 to the same goalnode node122.
+In the non-cluster A* method, the algorithm will only consider the recent movement cost and the Manhattan distance.
+In the A* method with cluster heuristic, the algorithm will have a more accurated prediction when it compares the costs of nodes in different cluster. 
